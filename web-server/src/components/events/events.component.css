@@ -1,0 +1,17 @@
+.root {
+    flex-frow: 1;
+}
+
+.event-container {}
+
+.event {
+    margin: 10px 0;
+}
+
+.messageContainer {
+    width: '100%';
+}
+
+.detailContainer {
+    margin: '10px';
+}

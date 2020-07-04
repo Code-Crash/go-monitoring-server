@@ -1,0 +1,69 @@
+:root {
+    margin: 0;
+    padding: 0;
+}
+
+.home-card-container {
+
+    /* height: 100%; */
+    margin-top: 20px;
+    /* position: fixed; */
+    top: 0;
+
+}
+
+.logo-title {
+    flex-grow: 1;
+}
+
+.add-button {
+    /* flex: 1; */
+    border: 1px solid red;
+}
+
+.home-container {
+    /* position: fixed; */
+    top: 10;
+}
+
+.media {
+    height: 140px;
+}
+
+.action-container {
+    width: 100%;
+    text-align: center;
+    display: flex;
+}
+
+.btn-invite {
+    /* float: left; */
+    flex: 1;
+}
+
+.btn-join {
+    /* float: right; */
+    flex: 1;
+}
+
+.home {
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+
+.home-input {
+    width: 100%;
+    text-align: center !important;
+}
+
+#home-input {
+    width: 100%;
+    text-align: center !important;
+}
+
+.home-label {
+    /* width: 100%; */
+    /* text-align: center; */
+}

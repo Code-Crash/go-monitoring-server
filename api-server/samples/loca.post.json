@@ -1,0 +1,11 @@
+{
+    "Name": "Local POST Monitoring",
+    "Description": "This Task will be to monitor the local site",
+    "Protocol": "http",
+    "Host": "localhost",
+    "Port": "8080",
+    "Method": "Post",
+    "Path": "/api/v1/",
+    "Body": "{\"Name\": \"Jhon Smith\", \"Age\": 30}",
+    "Headers": "[{\"name\": \"Content-Type\", \"value\": \"application/json\"}]"
+}

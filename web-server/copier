@@ -1,0 +1,7 @@
+#!/bin/bash
+
+rm -rf ../api-server/public
+rm -rf build
+npm run build
+cp -R build/ ../api-server/public
+echo "Done!"
